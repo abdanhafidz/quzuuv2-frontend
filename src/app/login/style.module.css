@@ -1,0 +1,44 @@
+.card-login{
+    margin-left:auto;
+    margin-right:auto;
+  }
+.login-form{
+    margin-top:30px;
+}
+
+.input-login{
+    border-top:0!important;
+    border-right:0!important;
+    border-left:0!important;
+    border-bottom: 3px solid #a084e891;
+    background: rgba(236, 236, 236, 0.48);
+    width:100%;
+    padding:7px;
+    box-shadow:none;
+    outline:none;
+    transition:ease-in 0.3s;
+    margin-top:5px;
+    font-family:'Inter',sans-serif;
+  }
+  
+.input-login:focus{
+    border-bottom: 3px solid #8861ea;
+}
+
+.field-group{
+    margin-top:25px;
+}
+
+.field-login-btn{
+margin-top:20px;
+}
+
+.register-link{
+  color: #A084E8;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: underline;
+}
